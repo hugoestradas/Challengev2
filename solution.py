@@ -7,7 +7,7 @@ from fuzzywuzzy import fuzz
 #%% Constants
 sfxList = [' INC', ' LLC', ' LTD', ' LLP', ' PC', ' KKC']#Only the ones in the data according to problem statement
 
-#%% Defining functions
+#% Defining functions
 #Removing special characters
 def cleanSC(x):
     x = x.strip()
