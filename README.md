@@ -6,7 +6,7 @@
 ## Usage
 - Execute 'solution.py' (use relative paths from current working directory):
 
-  ```python solution.py Data/inputfile.csv Data/outputfile.csv
+  ```python solution.py Data/inputfile.csv Data/outputfile.csv```
 
 ## Explanation of solution
 - The suffixes list is static, as per the problem statement.
